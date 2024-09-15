@@ -5,7 +5,14 @@
     "name": "<color_yellow>More Loading Screens!</color>",
     "authors": [ "Alpha//" ],
     "maintainers": [ "Sliperr34" ],
-    "loading_images": [ "load_screen.png" ],
+    "loading_images": [
+      "load_screen1.png",
+      "load_screen2.jpg",
+      "load_screen3.jpg",
+      "load_screen4.jpg",
+      "load_screen5.jpg",
+      "load_screen6.jpg"
+    ],
     "description": "This mod add... you know what",
     "category": "graphical",
     "dependencies": [ "dda" ]
