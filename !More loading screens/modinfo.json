@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "loading_screens",
+    "name": "<color_yellow>More Loading Screens!</color>",
+    "authors": [ "Alpha//" ],
+    "maintainers": [ "Sliperr34" ],
+    "loading_images": [ "load_screen.png" ],
+    "description": "This mod add... you know what",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+]
